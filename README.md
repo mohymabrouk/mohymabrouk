@@ -8,7 +8,6 @@
 
 I’m a passionate developer blending **AI, data, and engineering** to craft real-world solutions that scale.  
 Driven by curiosity and clarity — I love turning complex problems into clean, efficient systems.  
-Currently seeking a **full-time internship (April–October 2026)** to grow and make meaningful impact from day one.  
 
 🌍 Based in Paris, France  
 📧 [mohymabrouk0@gmail.com](mailto:mohymabrouk0@gmail.com)  
