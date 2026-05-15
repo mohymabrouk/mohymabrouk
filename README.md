@@ -1,12 +1,12 @@
 # 👋 Hi, I'm **Mohy**
 
-### _Machine Learning Engineer | AI & Full-Stack Developer | Problem Solver_
+### _ AI Researcher | Machine Learning Engineer | AI & Full-Stack Developer | Problem Solver_
 
 ---
 
 ### About Me
 
-I’m a passionate developer blending AI, data, and engineering to craft real-world solutions that scale.  
+I’m a passionate developer blending AI, data, and engineering to craft real-world solutions that scale. Currently working on diffusion models (particularly on the topic of memorization).
 Driven by curiosity and clarity. I love turning complex problems into clean, efficient systems.  
 
 Contact : [mohymabrouk0@gmail.com](mailto:mohymabrouk0@gmail.com)  
