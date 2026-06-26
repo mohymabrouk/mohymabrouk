@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Mohy**
 
-### _ AI Researcher | Machine Learning Engineer | AI & Full-Stack Developer | Problem Solver_
+### _ AI Researcher | Research Scientist | Machine Learning Engineer _
 
 ---
 
