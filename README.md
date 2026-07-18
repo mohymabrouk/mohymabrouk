@@ -253,21 +253,6 @@ Current work includes:
 
 ## Education
 
-### MSc in Mathematical Modelling
-
-Sorbonne Université and École Polytechnique
-2025 – Present
-
-### MSc MS2A — Learning and Algorithms
-
-Sorbonne Université
-2024 – Present
-
-### MSc MINT
-
-Université Paris-Saclay
-2024 – 2025
-
 ### Double BSc in Mathematics and Computer Science
 
 Université Paris Cité
